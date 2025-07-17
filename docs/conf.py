@@ -53,7 +53,7 @@ extensions = ['sphinx.ext.autodoc',
               'sphinx.ext.todo',
               'sphinx.ext.viewcode',
               'sphinx_markdown_builder',
-              'sphinx_toggle_button',
+              'sphinx_togglebutton',
               'breathe',
               'exhale'
 	      ]
