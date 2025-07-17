@@ -3,3 +3,5 @@ sphinx_rtd_theme
 numpydoc
 mock
 sphinx-markdown-builder
+sphinx-toggle-button
+
